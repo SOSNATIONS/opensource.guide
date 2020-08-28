@@ -62,7 +62,7 @@ Kesalahpahaman yang sering terjadi tentang berkontribusi pada open source adalah
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Saya menjadi terkenal karena pekerjaan saya pada CocoaPods, tetapi banyak orang tidak tahu bahwa saya tidak melakukan pekerjaan yang berarti pada perangkat CocoaPods itu sendiri. Waktu saya pada proyek lebih banyak dihabiskan untuk melakukan kegiatan seperti dokumentasi dan pencitraan.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -216,6 +216,8 @@ Anda juga bisa menggunakan salah satu dari beberapa sumber daya berikut untuk me
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### Daftar sebelum Anda berkontribusi
 

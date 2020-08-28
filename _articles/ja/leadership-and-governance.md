@@ -58,16 +58,16 @@ related:
 
 大きなプロジェクトでは、ウェブサイトを持っているのであれば、チームページやプロジェクトリーダーのリストのページを作りましょう。例えば、 [Postgres](https://github.com/postgres/postgres/) では [チームのリストページ](https://www.postgresql.org/community/contributors/) に各コントリビューターの短いプロフィールを記載しています。
 
-もしあなたのプロジェクトのコントリビューターが非常に活発なのであれば、メンテナーの「コアチーム」を作ったり、異なる問題領域ごと（例えば、セキュリティ、イシューの選別、コミュニティ運営）に席にを持つ分科会を持っているかもしれません。あなたが指名するのではなく、人々が自分の興味のある領域の役割に自律的にボランティアしてくれるように任せましょう。
+もしあなたのプロジェクトのコントリビューターが非常に活発なのであれば、メンテナーの「コアチーム」を作ったり、異なる問題領域ごと（例えば、セキュリティ、イシューの選別、コミュニティ運営）に責任を持つ分科会を持っているかもしれません。あなたが指名するのではなく、人々が自分の興味のある領域の役割に自律的にボランティアしてくれるように任せましょう。
 
 <aside markdown="1" class="pquote">
   \[私達は\] コアチームに対して、幾つかの「サブチーム」で支えています。各サブチームはそれぞれ特定の領域にフォーカスしています。例えば、言語設計やライブラリなどです。 (...) 世界をまたがるコラボレーションと、プロジェクト全体として協力で一貫したビジョンを維持するために、各サブチームはコアチームのメンバーによってリードされています。
   <p markdown="1" class="pquote-credit">
-— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-リーダーシップチームは( IRC のような)専用のチャンネルを作りたいと思ったり、プロジェクトについて定期的に議論するために( Gitter 上や Google Hangout 上で)集まりたいと思うかもしれません。こういったミーティングでさえも公にする事で、他の人も議論を聞けるようにしましょう。例えば、 [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) では、 [毎週オフィスアワーを設けています](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs)。
+リーダーシップチームは( IRC のような)専用のチャンネルを作りたいと思ったり、プロジェクトについて定期的に議論するために( Gitter 上や Google Hangout 上で)集まりたいと思うかもしれません。こういったミーティングでさえも公にする事で、他の人も議論を聞けるようにしましょう。例えば、 [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) では、 [毎週オフィスアワーを設けています](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs)。
 
 一度リーダーシップの役割を確立したなら、どのようにして彼らにコンタクトを取れるかドキュメントにまとめることを忘れないようにしましょう。メンテナーにどのようにしたらなれるかであったりどのように分科会に参加するのかのプロセスを明確に確立し、 GOVERNANCE.md ファイルにそれを記載しましょう。
 

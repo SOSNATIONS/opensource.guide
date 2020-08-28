@@ -62,7 +62,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   私は CocoaPods での仕事で有名になってきましたが、多くの人は私が CocoaPods 自体に対する仕事をほとんどしていないということを知らないのです。このプロジェクトでの私の時間はほとんどがドキュメントを書いたり、ブランディングのしごとをすることに費やされているのです。
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -211,12 +211,13 @@ README を読んで、壊れたリンクやタイポを見つけるかもしれ�
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
-* [First Timers Only](http://www.firsttimersonly.com/)
-* [Your First PR](https://yourfirstpr.github.io/)
+* [First Timers Only](https://www.firsttimersonly.com/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
-* [Up For Grabs](http://up-for-grabs.net/)
+* [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### コントリビュートする前のチェックリスト
 
@@ -368,7 +369,7 @@ master ブランチのコミットアクティビティをみてみましょう�
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   長いスレッドを見つけたら常に、スレッドの中で遅れてやってくるコア開発者の返答を確認してみましょう。彼らは建設的にまとめて、丁寧な姿勢を保ちつつもスレッドを結論に仕向けるべく一歩を踏み出していますか？もし罵り合いが多くあるのであれば、それはエネルギーが開発に向けられる代わりに議論に使われている兆候です。
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
